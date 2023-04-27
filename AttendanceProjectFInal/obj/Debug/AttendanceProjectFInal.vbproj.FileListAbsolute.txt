@@ -1,0 +1,12 @@
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\bin\Debug\AttendanceProjectFInal.exe.config
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\bin\Debug\AttendanceProjectFInal.exe
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\bin\Debug\AttendanceProjectFInal.pdb
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\bin\Debug\AttendanceProjectFInal.xml
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.vbprojAssemblyReference.cache
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.Form1.resources
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.Resources.resources
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.vbproj.GenerateResource.cache
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.vbproj.CoreCompileInputs.cache
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.exe
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.xml
+C:\Users\mackr\Desktop\IOT\AttendanceProjectFInal\AttendanceProjectFInal\obj\Debug\AttendanceProjectFInal.pdb
